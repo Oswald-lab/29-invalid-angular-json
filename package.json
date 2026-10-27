@@ -1,0 +1,10 @@
+{
+  "name": "invalid",
+  "version": "1.0.0",
+  "dependencies": {
+    "@angular/core": "^17.3.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^17.3.0"
+  }
+}
